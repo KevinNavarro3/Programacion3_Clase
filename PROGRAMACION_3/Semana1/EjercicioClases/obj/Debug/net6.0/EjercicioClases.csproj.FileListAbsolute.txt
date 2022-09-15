@@ -1,0 +1,30 @@
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.exe
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.deps.json
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.runtimeconfig.json
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.dll
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.pdb
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.csproj.AssemblyReference.cache
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.GeneratedMSBuildEditorConfig.editorconfig
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.AssemblyInfoInputs.cache
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.AssemblyInfo.cs
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.csproj.CoreCompileInputs.cache
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.dll
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\refint\EjercicioClases.dll
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.pdb
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.genruntimeconfig.cache
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\EjercicioClases\obj\Debug\net6.0\ref\EjercicioClases.dll
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.exe
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.deps.json
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.runtimeconfig.json
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.dll
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\bin\Debug\net6.0\EjercicioClases.pdb
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.csproj.AssemblyReference.cache
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.GeneratedMSBuildEditorConfig.editorconfig
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.AssemblyInfoInputs.cache
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.AssemblyInfo.cs
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.csproj.CoreCompileInputs.cache
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.dll
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\refint\EjercicioClases.dll
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.pdb
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\EjercicioClases.genruntimeconfig.cache
+F:\CUATRIMESTRE 2\PROGRAMACION_3\Semana1\EjercicioClases\obj\Debug\net6.0\ref\EjercicioClases.dll

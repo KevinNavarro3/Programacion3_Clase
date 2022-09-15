@@ -1,0 +1,15 @@
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\bin\Debug\net6.0\HolaMundo.exe
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\bin\Debug\net6.0\HolaMundo.deps.json
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\bin\Debug\net6.0\HolaMundo.runtimeconfig.json
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\bin\Debug\net6.0\HolaMundo.dll
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\bin\Debug\net6.0\HolaMundo.pdb
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\HolaMundo.csproj.AssemblyReference.cache
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\HolaMundo.AssemblyInfoInputs.cache
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\HolaMundo.AssemblyInfo.cs
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\HolaMundo.csproj.CoreCompileInputs.cache
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\HolaMundo.dll
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\refint\HolaMundo.dll
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\HolaMundo.pdb
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\HolaMundo.genruntimeconfig.cache
+F:\CUATRIMESTRE 2\PROGRAMACION III\Semana1\HolaMundo\obj\Debug\net6.0\ref\HolaMundo.dll
